@@ -78,3 +78,10 @@
 			.icono:hover {
 				transform: scale(.95);
 			}
+
+			.icono:hover {
+				transform: scale(.95);
+				color: #00e676; /* Verde claro */
+			}
+			
+			
